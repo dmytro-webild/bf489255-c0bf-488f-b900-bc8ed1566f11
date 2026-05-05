@@ -145,7 +145,7 @@ export default function LandingPage() {
       <MetricCardFourteen
       useInvertedBackground={false}
       title="Why Choose Us"
-      tag="Reliability Metrics"
+      tag="Proven Performance"
       metrics={[
         {
           id: "1",          value: "90+",          description: "Years of Experience"},
